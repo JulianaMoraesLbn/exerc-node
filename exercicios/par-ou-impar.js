@@ -1,0 +1,1 @@
+console.log('logica do par ou impar')

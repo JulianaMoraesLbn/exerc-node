@@ -1,0 +1,1 @@
+console.log('pedra papel e tesoura');

@@ -1,0 +1,15 @@
+{
+  "name": "exerc-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js",
+    "process-argv": "clear && node exercicios/process-argv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
